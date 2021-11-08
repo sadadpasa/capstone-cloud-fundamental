@@ -1,5 +1,5 @@
 # Capstone MariBelajar
-djsijifjsdfj
+Pada projek capstone kali ini
 
 ![ss](/images/1.png)
 
