@@ -1,7 +1,7 @@
 # Capstone MariBelajar
 [MariBelajar](http://maribelajarsite.southeastasia.cloudapp.azure.com/) merupakan aplikasi berbasis web yang bergerak di bidang pendidikan. Aplikasi ini berisi course-course mengenai sertifikasi Azure. Aplikasi ini berbasis Moodle. Moodle adalah paket perangkat lunak yang diproduksi untuk kegiatan belajar berbasis internet dan situs web. Di dalam Aplikasi MariBelajar, para peserta course dapat mengakses materi, soal, dan sumber belajar lain yang telah disiapkan oleh course-creator. 
 
-MariBelajar dibuat menggunakan platform Azure. Pertama-tama masuk ke [Portal Azure](https://portal.azure.com/) kemudian login ke dalam akun yang sudah memiliki azure credit. Kemudian pada bagian Layanan Azure klik "Buat Sumber Daya".
+MariBelajar dibuat menggunakan platform Azure dan menggunakan moodle yang ada di Azure Marketplace. Dengan menggunakan Moodle yang sudah tersedia di Azure Marketplace, akan lebih mudah dalam mendeploy dan mengonfigurasi aplikasi. Pertama-tama masuk ke [Portal Azure](https://portal.azure.com/) kemudian login ke dalam akun yang sudah memiliki azure credit. Kemudian pada bagian Layanan Azure klik "Buat Sumber Daya".
 
 ![ss](/images/1.png)
 
