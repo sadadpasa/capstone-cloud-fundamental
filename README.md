@@ -25,10 +25,10 @@ Create layanan Moodle Virtual Machine. Nantinya setelah ini akan dilakukan pembu
 
 ![ss](/images/8.png)
 
-![ss](/images/9.png)
+![ss](/images/9-.png)
 
-![ss](/images/10.png)
+![ss](/images/10-.png)
 
-![ss](/images/11.png)
+![ss](/images/11-.png)
 
 ![ss](/images/12.png)
