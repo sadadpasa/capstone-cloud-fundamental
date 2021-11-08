@@ -39,3 +39,13 @@ MariBelajar dibuat menggunakan platform Azure dan menggunakan moodle yang ada di
 - Setelah Virtual Machine berhasil dibuat, kembali ke Home lalu buka Virtual Machine yang baru saja dibuat.
 
 ![ss](/images/12.png)
+
+![ss](/images/13.png)
+
+![ss](/images/14.png)
+
+![ss](/images/15.png)
+
+![ss](/images/16.png)
+
+![ss](/images/17.png)
