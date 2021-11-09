@@ -69,4 +69,4 @@ MariBelajar dibuat menggunakan platform Azure dan menggunakan moodle yang ada di
 ![ss](/images/19--.png)
 
 - Pada gambar dibawah, dibuat sebuah course dengan nama **Power Platform Fundamental** dengan codename **PL-900** yang akan dimulai dari taggal 10 November 2021 sampai 10 November 2022 dengan jumlah pertemuan sebanyak 8 kali dan maksimum file size 20Mb. Setelah selesai kemudian klik **Save**
-![ss](/images/20.png)
+![ss](/images/20-.png)
