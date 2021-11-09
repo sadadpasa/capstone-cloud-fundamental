@@ -21,15 +21,10 @@
 - Konfiguasikan Virtual Machine sesuai kebutuhan.
 
 ![ss](/images/5.png)
-
 ![ss](/images/6.png)
-
 ![ss](/images/7.png)
-
 ![ss](/images/8.png)
-
 ![ss](/images/9-.png)
-
 ![ss](/images/10-.png)
 
 - Setelah lulus validasi, kemudian buat Virtual Machine tersebut.
@@ -116,3 +111,5 @@
 
 ![ss](/images/30.png)
 ![ss](/images/31.png)
+
+Dengan begini Aplikasi [MariBelajar](http://maribelajarsite.southeastasia.cloudapp.azure.com/) berbasis Moodle siap digunakan.
