@@ -104,3 +104,7 @@
 
 ![ss](/images/28.png)
 
+- Pilih user yang ingin diubah role-nya menjadi course creator, pada contoh di bawah adalah **guru satu**. Kemudian klik **Add**. Apabila berhasil, **guru satu** yang sebelumnya berada di kolom kanan akan berpindah ke kolom kiri. 
+
+![ss](/images/29.png)
+
