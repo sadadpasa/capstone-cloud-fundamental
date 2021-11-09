@@ -2,11 +2,11 @@
 [MariBelajar](http://maribelajarsite.southeastasia.cloudapp.azure.com/) merupakan aplikasi berbasis web yang bergerak di bidang pendidikan. Aplikasi ini berisi course-course mengenai sertifikasi Azure. Aplikasi ini berbasis Moodle. Moodle adalah paket perangkat lunak yang diproduksi untuk kegiatan belajar berbasis internet dan situs web. Di dalam Aplikasi MariBelajar, para peserta course dapat mengakses materi, soal, dan sumber belajar lain yang telah disiapkan oleh course-creator. 
 
 MariBelajar dibuat menggunakan platform Azure dan menggunakan moodle yang ada di Azure Marketplace. Dengan menggunakan Moodle yang sudah tersedia di Azure Marketplace, akan lebih mudah dalam mendeploy dan mengonfigurasi aplikasi. 
-- Pertama-tama masuk ke [Portal Azure](https://portal.azure.com/) kemudian login ke dalam akun yang sudah memiliki azure credit. Kemudian pada bagian Layanan Azure klik "Buat Sumber Daya".
+- Pertama-tama masuk ke [Portal Azure](https://portal.azure.com/) kemudian login ke dalam akun yang sudah memiliki azure credit. Kemudian pada bagian Layanan Azure klik **Buat Sumber Daya**.
 
 ![ss](/images/1.png)
 
-- Pada kolom pencarian, ketik "moodle" kemudian enter. Nantinya akan muncul beberapa layanan terkait mooodle.
+- Pada kolom pencarian, ketik **moodle** kemudian enter. Nantinya akan muncul beberapa layanan terkait mooodle.
 
 ![ss](/images/2.png)
 
@@ -56,7 +56,7 @@ MariBelajar dibuat menggunakan platform Azure dan menggunakan moodle yang ada di
 
 ![ss](/images/16-.png)
 
-- Untuk mendapatkan user dan password dari administrator Moodle, buka kembali Virtual Machine Moodle. Pada menu bagian kiri cari "Diagnostik boot" kemudian klik. User dan password terdapat di tab "seri log". Scroll down log sampai menemukan user dan password. User dan password inilah yang nantinya akan digunakan sebagai Administrator.
+- Untuk mendapatkan user dan password dari administrator Moodle, buka kembali Virtual Machine Moodle. Pada menu bagian kiri cari **Diagnostik boot** kemudian klik. User dan password terdapat di tab **seri log**. Scroll down log sampai menemukan user dan password. User dan password inilah yang nantinya akan digunakan sebagai Administrator.
 
 ![ss](/images/17.png)
 
@@ -64,4 +64,5 @@ MariBelajar dibuat menggunakan platform Azure dan menggunakan moodle yang ada di
 
 ![ss](/images/18.png)
 
-![ss](/images/19.png)
+- Untuk membuat course baru, dapat masuk ke menu **Site Administration**. Kemudian pilih tab **Course** dan klik **add course**.
+![ss](/images/19-.png)
