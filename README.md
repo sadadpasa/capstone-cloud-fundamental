@@ -71,3 +71,19 @@
 - Pada gambar dibawah, dibuat sebuah course dengan nama **Power Platform Fundamental** dengan codename **PL-900** yang akan dimulai dari taggal 10 November 2021 sampai 10 November 2022 dengan jumlah pertemuan sebanyak 8 kali dan maksimum file size 20Mb. Setelah selesai kemudian klik **Save**.
 
 ![ss](/images/20-.png)
+
+- Course yang baru dibuat dapat dilihat pada menu **Site Home** Kemudian klik Course yang baru saja dibuat.
+
+![ss](/images/21.png)
+
+- Terlihat bahwa course Power Platform Fundamental memiliki 8 pertemuan, sesuai dengan apa yang dibuat diawal. Terlihat pula bahwa course ini masih kosong, belum ada activity atau resources seperti materi, tugas, kuis, dan lainnya. Untuk menambahkan activity dan resources klik tombol **Turn Editing On**.
+
+![ss](/images/22.png)
+
+- Setelah tombol **Turn Editing On** diklik, akan muncul tombol **Add an activity or resource** di tiap-tiap topik. Tiap-tiap topik nantinya dapat memiliki lebih dari 1 activity atau resource sekaligus. Misal apabila ingin menambahkan activity atau resource di Topic 1, klik tombol **Add an activity or resource** yang ada di Topic 1.
+
+![ss](/images/23.png)
+
+- Nantinya akan ada banyak jenis Activity dan Resource yang dapat ditambahkan ke dalam Topic 1, seperti assignment, file, book, quiz, dan masih banyak lagi.
+
+![ss](/images/24.png)
