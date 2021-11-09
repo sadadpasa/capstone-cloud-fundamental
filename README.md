@@ -96,11 +96,11 @@
 
 ![ss](/images/26.png)
 
-- Secara default, user yang baru saja dibuat akan memiliki role sebagai student. Role student disini artinya user hanya dapat mengikuti course, tidak dapat menambahkan activity dan resource ke dalam course. Untuk dapat melakukan hal tersebut, user harus diganti role nya menjadi teacher atau course creator. Untuk merubah role user, masuk ke menu **Site Administration** lalu buka tab **Users**. Pada bagian **Permissions** klik tombol **Assign system roles**.
+- Secara default, user yang baru saja dibuat akan memiliki role sebagai student. Role student disini tidak memiliki akses apapun didalam aplikasi, seperti membuat course dan melakukan konfigurasi lainnya. Untuk merubah role user, masuk ke menu **Site Administration** lalu buka tab **Users**. Pada bagian **Permissions** klik tombol **Assign system roles**.
 
 ![ss](/images/27.png)
 
-- Masuk ke **Course creator**.
+- Pilih role yang ingin ditambahkan, Misal saat ini ingin menambah course creator maka klik tombol **Course creator**.
 
 ![ss](/images/28.png)
 
@@ -108,3 +108,10 @@
 
 ![ss](/images/29.png)
 
+- Setelah memiliki user, kini user-user tersebut dapat ditambahkan sebagai participant ke dalam course. Untuk menambahkan user sebagai participant course, pertama masuk ke menu **Site Home**. Kemudian pilih course yang ingin ditambah participantnya.
+
+![ss](/images/30.png)
+
+- Pada bagian kiri, klik menu **Participants**. Lalu klik **Enroll users**.
+
+![ss](/images/31.png)
