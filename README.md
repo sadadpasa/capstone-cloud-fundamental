@@ -108,10 +108,11 @@
 
 ![ss](/images/29.png)
 
-- Setelah memiliki user, kini user-user tersebut dapat ditambahkan sebagai participant ke dalam course. Untuk menambahkan user sebagai participant course, pertama masuk ke menu **Site Home**. Kemudian pilih course yang ingin ditambah participantnya.
+- Setelah memiliki user, kini user-user tersebut dapat ditambahkan sebagai participant ke dalam course. Untuk menambahkan user sebagai participant course, pertama masuk ke menu **Site Home**. Kemudian pilih course yang ingin ditambah participantnya. Pada contoh ini ingin menambahkan participant di course **Power Platform Fundamental**.
+
+![ss](/images/30-.png)
+
+- Pada bagian kiri, klik menu **Participants**. Lalu klik **Enroll users**. Nantinya akan muncul pop-up untuk menamhkan user dengan role yang diinginkan di dalam course tersebut. Dapat dilihat dicontoh, user **murid satu** dan **student satu** ditambahkan ke dalam **Power Platform Fundamental** course sebagai Student dan **guru satu** ditambahkan sebagai Teacher.
 
 ![ss](/images/30.png)
-
-- Pada bagian kiri, klik menu **Participants**. Lalu klik **Enroll users**.
-
 ![ss](/images/31.png)
