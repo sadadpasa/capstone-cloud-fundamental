@@ -54,8 +54,14 @@ MariBelajar dibuat menggunakan platform Azure dan menggunakan moodle yang ada di
 
 - Salin nama DNS yang baru saja dibuat, kemudian buka di browser. Akan muncul aplikasi Moodle dan akan diminta login sebagai administrator.
 
-![ss](/images/16.png)
+![ss](/images/16-.png)
 
 - Untuk mendapatkan user dan password dari administrator Moodle, buka kembali Virtual Machine Moodle. Pada menu bagian kiri cari "Diagnostik boot" kemudian klik. User dan password terdapat di tab "seri log". Scroll down log sampai menemukan user dan password. User dan password inilah yang nantinya akan digunakan sebagai Administrator.
 
 ![ss](/images/17.png)
+
+- Masukkan user dan password ke halaman login Moodle. Setelah berhasil masuk, Moodle sudah bisa dikonfigurasikan karena admin memiliki akses penuh terhadap aplikasi Moodle. Tampilan awal setelah berhasil masuk sebagai admin akan seperti di bawah:
+
+![ss](/images/18.png)
+
+![ss](/images/19.png)
