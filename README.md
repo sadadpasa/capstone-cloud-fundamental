@@ -87,3 +87,20 @@
 - Nantinya akan ada banyak jenis Activity dan Resource yang dapat ditambahkan ke dalam Topic 1, seperti assignment, file, book, quiz, dan masih banyak lagi.
 
 ![ss](/images/24.png)
+
+- Setelah selesai membuat course, selanjutnya akan dibuat user untuk aplikasi MariBelajar ini. Untuk membuat user, dapat masuk ke menu **Site Administration**, kemudian masuk ke tab **User**. Lalu klik tombol **add user**.
+
+![ss](/images/25.png)
+
+- Setelah klik **add user**, akan muncul form yang harus diisi untuk user baru yang ingin dibuat, seperti nama, email, username, dan password. Username dan password inilah yang nantinya akan digunakan user untuk login sebagai akun MariBelajar. Setelah form selesai diisi, klik **create user**. 
+
+![ss](/images/26.png)
+
+- Secara default, user yang baru saja dibuat akan memiliki role sebagai student. Role student disini artinya user hanya dapat mengikuti course, tidak dapat menambahkan activity dan resource ke dalam course. Untuk dapat melakukan hal tersebut, user harus diganti role nya menjadi teacher atau course creator. Untuk merubah role user, masuk ke menu **Site Administration** lalu buka tab **Users**. Pada bagian **Permissions** klik tombol **Assign system roles**.
+
+![ss](/images/27.png)
+
+- Masuk ke **Course creator**.
+
+![ss](/images/28.png)
+
